@@ -18,7 +18,9 @@ You need to have VSCode to run the project.
 ## Setup
 Install VSCode and clone this project to your local.
 
-In order to run the project type <b>npm run server</b> in VSCode terminal
+Type <b>npm install</b> in VSCode terminal
+
+In order to run the project type <b>npm run server</b> 
 
 It should run under this url:
 <b>`localhost:3000'</b>
