@@ -1,14 +1,6 @@
-# TakeHomeChallenge
-This is the coding challenge solution for ViaScientific
+#BashCommandExecuterApi
 
-## Submission criterias
-1. Write a node.js app to run bash commands with API calls and log each command, time, userId and runTime to a log file. Command, its parameters, userId can come as API parameters in the API call. Please be creative!
-
-2. Document the code and prepare a README.md file and state how to install and run the node.js app.
-
-3. Push it to a GitHub account and share the link with us.
-
-4. Record a video and tell a little bit about yourself/projects you worked on and how you created the app and tell about where you spend the most time, what were the problems and how you overcome them. 
+This is a node.js app to run bash commands with API calls and log each command, time, userId and runTime to a log file. Command, its parameters, userId can come as API parameters in the API call. 
 
 ## Prerequisites
 You need to have Postman installed in order to make api calls. 
