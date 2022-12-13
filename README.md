@@ -1,4 +1,4 @@
-#BashCommandExecuterApi
+## BashCommandExecuterApi
 
 This is a node.js app to run bash commands with API calls and log each command, time, userId and runTime to a log file. Command, its parameters, userId can come as API parameters in the API call. 
 
